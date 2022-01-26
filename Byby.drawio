@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T16:40:51.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="cbxqhkZ2hUztKpE00VSZ" version="16.2.6" type="github"><diagram id="mjfIQLmnZSRVFCnpf-31" name="Page-1">zZddb9sgFIZ/jS9XxZ9xL7ek7aR1W6Zo2no1McNsFBssght7v36HGPwdpe3SJjeWzwsc4HlPILbcRVbeCZQnnzkmqeXMcGm5S8txwiCEpxKqWvCCWS3EguJaslthTf8SLZpuBcVk2+soOU8lzftixBkjkexpSAi+63f7w9P+rDmKyUhYRygdqz8olonelj9r9Y+ExomZ2Z7plgyZzlrYJgjzXUdybyx3ITiX9VtWLkiq2Bku9bjbA63NwgRh8ikD7jn/tY3u882Xcrnw8frb1yp+p7M8orTQG14RFpOUpwjk76uFXrusDBBICuwh+LBLqCTrHEWqZQfug5bILIXIhtetFHzTQPNB0XMRIUl5cBN2gwZKivCMSFFBFz3ADTVNU0463LXe2AZ40vHFDEO6HOImc0sMXjS0ZwB0pgDiYlOwWE2HsytLrSdAmcJTP0FZkew3qpBAbN98C89PaEvFqXB7J8Id9HE77gTvYIK3bb8WcHcE/K7AaE+75gj8K5rliCm2F0XTN4ehoemEZ65eb6p60ebyCtG+do4X4pui80foxsgYfq+uIIgYZ6SPSfCCYaJmmEEEGET1UwVXvgkfdM99sCy7PZeViUoqO8Mgeui0tINUYMYcMojg0VU4sAd2xwsRkePnoUQiJvLYxTO2u2OnP+Gm0QRJkaSP/eVOWaxnWHEKG2mqyXP6x5p9PaiSept6VPdOHSaaDxJ5g0Q1h1GifcU12355EQYnLcJXLQz3nIYHTjgwPHyZ4aNE8/BNDZ+f+NQx/7i9/7L/XLY2eYwbw9P+yba6RxK9sq3hhfyOz2fkgev9uUYOE53OSAjbb7W6e/vB6978Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-26T18:28:39.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="HS4_IPPlRciuDAc2U7WI" version="16.2.6" type="github">
+  <diagram id="mjfIQLmnZSRVFCnpf-31" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-1" value="Pengelola UPS" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="380" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-2" value="Pendukung adm. &amp;amp; Pembayaran / Kasir" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-3" value="Gudang / Penyimpanan" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="568" y="228" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-4" value="Penaksir" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="192" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="Loo_scLpkNxDC5dSQOyg-2" target="Loo_scLpkNxDC5dSQOyg-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="190" as="sourcePoint" />
+            <mxPoint x="470" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" source="Loo_scLpkNxDC5dSQOyg-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="628" y="198" as="sourcePoint" />
+            <mxPoint x="628" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-7" value="" style="endArrow=none;html=1;rounded=0;endSize=4;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="180" as="sourcePoint" />
+            <mxPoint x="630" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Loo_scLpkNxDC5dSQOyg-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252" y="230" as="sourcePoint" />
+            <mxPoint x="252" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
